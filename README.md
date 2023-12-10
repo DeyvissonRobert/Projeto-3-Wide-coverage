@@ -10,6 +10,6 @@
   </div>
 
 <div align="center" display="inline-block">
-<img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/Projeto-2-We-Care/blob/main/assets/Desktop%20We%20Care.jpg">
-<img alt="imagem do projeto no mobile" src="https://github.com/DeyvissonRobert/Projeto-2-We-Care/blob/main/assets/Mobile%20We%20Care.jpg">
+<img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/Projeto-3-Wide-coverage/blob/main/assets/Desktop%20Coverage%20Location.jpg">
+<img alt="imagem do projeto no mobile" src="https://github.com/DeyvissonRobert/Projeto-3-Wide-coverage/blob/main/assets/Mobile%20Coverage%20Location.jpg">
 </div>
