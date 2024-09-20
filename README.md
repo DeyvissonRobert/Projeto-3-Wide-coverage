@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✧ Projeto Wide Coverage Location ✧
+# ✧ Wide Coverage Location ✧
 <br> <br>
 
 ## ✧ Este é um projeto responsivo que eu aprendi no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.🚀 ✧
